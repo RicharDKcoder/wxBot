@@ -2,7 +2,7 @@
 # coding: utf-8
 #
 
-from wxbot import *
+from wxbot import WXBot
 
 
 class MyWXBot(WXBot):
