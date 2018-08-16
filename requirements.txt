@@ -2,4 +2,3 @@ requests
 pyqrcode
 pypng
 Pillow
-pylint
